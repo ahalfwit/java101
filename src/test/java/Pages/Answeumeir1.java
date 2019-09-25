@@ -8,15 +8,13 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
 import org.testng.annotations.*;
-import org.testng.annotations.BeforeMethod;
-
+import java.util.Set;
 import java.util.concurrent.TimeUnit;
 
 public class Answeumeir1 {
 
-
-
     WebDriver driver ;
+    String secondWindow = "(//span[contains(text(),'Join')])[3]";
 
     /*
     Locators in cucumber are staying inside the pages class   in  cucumber
@@ -46,6 +44,24 @@ public class Answeumeir1 {
                                                                                     // No A/B Test --> it coming from feature file
        Assert.assertEquals(verfiyPageName,"No A/B Test");
 
+        String parentWindow = driver.getWindowHandle();
+        Set<String> allWIndows = driver.getWindowHandles();
+
+        for(String each : allWIndows){
+            if(!each.equals(parentWindow)){
+                driver.switchTo().window(each);
+                Thread.sleep(2000);
+                driver.findElement(By.xpath(secondWindow)).click();
+                Thread.sleep(2000);
+                driver.close();
+                Thread.sleep(2000);
+                // driver.switchTo().defaultContent();
+                driver.switchTo().window(parentWindow);
+
+
+
+            }
+        }
 
 
 
