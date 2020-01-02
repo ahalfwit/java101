@@ -2,8 +2,168 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="771506fd-21bb-4507-adb6-c217cc5380ff" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Collections/ArralistConsept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Collections/Collection" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Collections/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Collections/LinkListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Appears_Twice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Armstrong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Blog_DB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Character_Frequency_In_A_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Combine_Two_ArrayList_Return_A_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Count_of_A_Word_in_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Count_of_Code.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Count_of_Triples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Cube_Of_Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Divide_Whitout_Division.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Double_Each_Element_in_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Duplicate_Element_in_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Extract_Number_from_A_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Find_the_Greatest_Common_Divisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Get_Positives_and_Add_Sum_as_Last_Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/HashCode_Equals_CompareTo_Examples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Is_Count_Same_of_X_and_Y_in_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Largest_Number_And_Second_Largest_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Largest_Number_in_two_Dimentional_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Left_Shifted_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Letters_Combination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Longest_Word.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/LowerCase_Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Max_Number_and_Min_Numbers_with_Indexes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Merge_Two_Arrays_into_One.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Missing_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Nested_Static.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Numbers_for_Multiple_X_and_Y.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Permutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Populate_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Prime_Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Print_First_And_Last_Letters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Print_Word_N_Times.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Print_X_from_A_String_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Print_the_Alphabet_N_Times.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Random_Min_and_Max.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Remainder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Remove_Duplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Remove_First_and_Last_X_from_the_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Remove_Instances_of_Integers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Remove_Target_Word.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Reverse_A_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Reverse_A_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Reverse_An_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Reverse_String_of_N_Characters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Reverse_Vowels_Of_A_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Reverse_Words_Of_A_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Sandwich.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Shortest_Word_and_MinVowels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Smallest_Number_And_Second_Smallest_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Sort_IntArray_without_Sort_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Square_Magic_2D_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Sum_EachArrayItems_of_2D_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Sum_Of_Colum_X_Values.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Sum_Of_Digits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Sum_Of_Divisors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Sum_Of_Two_Int_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Sum_Up_to_Num_N.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Swap_First_and_Last_Letters_Of_A_Word.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Swap_Two_Variable_Values.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Synchronized_Atomic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Triagle_Staircase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Unique_Characters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Unique_Numbers_from_the_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Until_3_Trials_Or_Sum_is_100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Until_Sum_is_40.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheFirstOne/Until_You_Get_YES_or_Negative_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/AAAAA111.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/Answeumeir1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/AppleInterview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/ArrayUniqueCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/ArrayUniqueInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/CheckEquality.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/Example12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/Finra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/HowMAnyTimesCharAccour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/IntegerMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/MyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/NumberLessToMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/NumberOneToMAx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/NumberofPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/PrimeNumberArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/RemoveDuplicateElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/RemoveElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/StringOccurHowManyTimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/StringUniqueElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/sumOfDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/test4545.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheThirdOne/Technical/A1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheThirdOne/Technical/Collection2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheThirdOne/Technical/EachWordReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheThirdOne/Technical/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheThirdOne/Technical/InterviewOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheThirdOne/Technical/NumberTowordConvertor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheThirdOne/Technical/QuestionInterview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheThirdOne/Technical/ReverseNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheThirdOne/Technical/UniqueElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheThirdOne/Technical/UniqueElementRemove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheThirdOne/Technical/reverseArray2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheThirdOne/Technical/sumOfDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheThirdOne/Technical/uniqueElementCount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/Answeumeir1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/Answeumeir1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Example/Polindrom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/Polindrom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Example/Polindrome2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/Polindrome2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Example/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/PrimeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Example/PrimeNumber2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/PrimeNumber2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Folder/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TheThirdOne/Technical/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Folder/Asas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/Asas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/Answeumeir1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/CheckingAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/CheckingAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/Example2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/Example2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/Example21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/Example21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/Reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/Reverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/Sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/Sample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/TestNg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/TestNg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/arrayLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/arrayLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Example/Polindrom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Example/Polindrome2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Example/PrimeNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Example/PrimeNumber2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Folder/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Folder/Asas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Folder/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Folder/C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/Answeumeir1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/CheckingAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/Example2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/Example21.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/Reverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/Sample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/Test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/TestNg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/arrayLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/wildAnimal.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -13,16 +173,19 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="201" />
+  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Pages/Answeumeir1.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Collections/ArralistConsept.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-778">
-              <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+            <state relative-caret-position="607">
+              <caret line="78" column="48" selection-start-line="78" selection-start-column="48" selection-end-line="78" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -31,13 +194,40 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Pages/Example21.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Collections/LinkListExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="26" column="65" lean-forward="true" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="65" />
+            <state relative-caret-position="172">
+              <caret line="46" column="26" selection-start-line="46" selection-start-column="26" selection-end-line="46" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/MapExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="23" selection-start-column="23" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Collections/Employee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Collections/Collection">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -57,27 +247,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/Example/PrimeNumber.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Example/PrimeNumber2.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Example/Polindrom.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Example/Polindrome2.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Pages/Sample.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Pages/Example2.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Pages/TestNg.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Pages/Person.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Pages/Test1.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Pages/Employee.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Pages/Vehicle.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Pages/Animal.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Pages/CheckingAccount.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Pages/A.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Example/UniqueElementRemove.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Folder/StringOccurHowManyTimes.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Technical/QuestionInterview.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Example/Technical/QuestionInterview.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Second/removeDublicate.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Second/MapSecondExample.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Example/IntegerMap.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Example/uniqueElementFind.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Example/Array.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Example/sumOfDigit.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Example/Example.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Second/EachWordReverse.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Second/MapOfExample.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Second/Cpllection2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Second/Preserve.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Second/Reverse.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Second/Example.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Second/A1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Second/Test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Second/Collection2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Example/AppleInterview.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Interview2/Divide_Whitout_Division.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Example/Pages/Polindrom.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Example/Technical/sumOfDigit.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Example/Folder/HowMAnyTimesCharAccour.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Example/Folder/AppleInterview.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TheThirdOne/Folder/Finra.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TheThirdOne/A1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/A.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TheThirdOne/Technical/EachWordReverse.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TheThirdOne/Technical/Collection2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TheThirdOne/Technical/A1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TheThirdOne/Technical/A.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TheFirstOne/Anagram.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TheFirstOne/Cube_Of_Numbers.java" />
+        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/Pages/Reverse.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Pages/Example21.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Folder/A.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Pages/arrayLoop.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Folder/Asas.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Pages/Answeumeir1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/Answeumeir1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/Test1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/Sample.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/TestNg.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TheThirdOne/Technical/Example.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TheThirdOne/Technical/Example3.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/Example21.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/RemoveElement.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Collections/COllection" />
+        <option value="$PROJECT_DIR$/src/test/java/Collections/Collection1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Collections/Employee.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Collections/ArralistCOnsept.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Collections/LinkedList.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Collections/LinkListExample.java" />
       </list>
     </option>
   </component>
@@ -88,10 +308,21 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="877" />
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="SimpleProject" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="y" value="257" />
+    <option name="width" value="1364" />
+    <option name="height" value="643" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -99,9 +330,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="CatdeaLogs" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -118,12 +346,6 @@
               <item name="SimpleProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="SimpleProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SimpleProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SimpleProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -132,45 +354,32 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SimpleProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SimpleProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Folder" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SimpleProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SimpleProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Folder" type="462c0819:PsiDirectoryNode" />
-              <item name="A.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="SimpleProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SimpleProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SimpleProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="CatdeaLogs" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/Interview2" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="experimental" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="TheThirdOne" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/Interview2" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -184,13 +393,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Asas">
-    <configuration name="Asas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Folder.Asas" />
+  <component name="RunManager" selected="Application.LinkListExample">
+    <configuration name="ArralistConsept" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.ArralistConsept" />
       <module name="SimpleProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Folder.*" />
+          <option name="PATTERN" value="Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -198,12 +407,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pages.Reverse" />
+    <configuration name="ArrayUniqueInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TheThirdOne.Pages.ArrayUniqueInteger" />
       <module name="SimpleProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Pages.*" />
+          <option name="PATTERN" value="TheThirdOne.Pages.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -211,12 +420,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="arrayLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pages.arrayLoop" />
+    <configuration name="LinkListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.LinkListExample" />
       <module name="SimpleProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Pages.*" />
+          <option name="PATTERN" value="Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -224,49 +433,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Answeumeir1.before" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="RemoveElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TheThirdOne.Pages.RemoveElement" />
       <module name="SimpleProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Pages.*" />
+          <option name="PATTERN" value="TheThirdOne.Pages.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Pages" />
-      <option name="MAIN_CLASS_NAME" value="Pages.Answeumeir1" />
-      <option name="METHOD_NAME" value="before" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example21.before" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="sumOfDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TheThirdOne.Pages.sumOfDigit" />
       <module name="SimpleProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Pages.*" />
+          <option name="PATTERN" value="TheThirdOne.Pages.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Pages" />
-      <option name="MAIN_CLASS_NAME" value="Pages.Example21" />
-      <option name="METHOD_NAME" value="before" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Asas" />
-        <item itemvalue="Application.arrayLoop" />
-        <item itemvalue="TestNG.Example21.before" />
-        <item itemvalue="Application.Reverse" />
-        <item itemvalue="TestNG.Answeumeir1.before" />
+        <item itemvalue="Application.LinkListExample" />
+        <item itemvalue="Application.ArralistConsept" />
+        <item itemvalue="Application.RemoveElement" />
+        <item itemvalue="Application.ArrayUniqueInteger" />
+        <item itemvalue="Application.sumOfDigit" />
       </list>
     </recent_temporary>
   </component>
@@ -284,302 +483,511 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Example21_before - 2019.09.23 at 18h 49m 04s.xml">
-      <configuration name="Example21.before" configurationId="TestNG" />
+    <history-entry file="Answeumeir1_before - 2019.09.24 at 22h 35m 58s.xml">
+      <configuration name="Answeumeir1.before" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Example21_before - 2019.09.23 at 18h 51m 26s.xml">
-      <configuration name="Example21.before" configurationId="TestNG" />
+    <history-entry file="Answeumeir1 - 2019.09.24 at 22h 36m 09s.xml">
+      <configuration name="Answeumeir1" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Example21_before - 2019.09.23 at 18h 53m 37s.xml">
-      <configuration name="Example21.before" configurationId="TestNG" />
+    <history-entry file="Answeumeir1_before - 2019.09.24 at 22h 36m 51s.xml">
+      <configuration name="Answeumeir1.before" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Example21_before - 2019.09.23 at 18h 54m 23s.xml">
-      <configuration name="Example21.before" configurationId="TestNG" />
+    <history-entry file="Answeumeir1_before - 2019.09.24 at 22h 41m 31s.xml">
+      <configuration name="Answeumeir1.before" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Example21_before - 2019.09.23 at 18h 57m 25s.xml">
-      <configuration name="Example21.before" configurationId="TestNG" />
+    <history-entry file="Answeumeir1_before - 2019.09.24 at 22h 41m 57s.xml">
+      <configuration name="Answeumeir1.before" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Example21_before - 2019.09.23 at 19h 18m 38s.xml">
-      <configuration name="Example21.before" configurationId="TestNG" />
+    <history-entry file="Answeumeir1_before - 2019.09.24 at 22h 42m 24s.xml">
+      <configuration name="Answeumeir1.before" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Example21_before - 2019.09.23 at 19h 19m 50s.xml">
-      <configuration name="Example21.before" configurationId="TestNG" />
+    <history-entry file="Answeumeir1_before - 2019.09.24 at 22h 42m 51s.xml">
+      <configuration name="Answeumeir1.before" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Example21_before - 2019.09.23 at 19h 28m 02s.xml">
-      <configuration name="Example21.before" configurationId="TestNG" />
+    <history-entry file="Answeumeir1_before - 2019.09.24 at 22h 44m 12s.xml">
+      <configuration name="Answeumeir1.before" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Example21_before - 2019.09.23 at 19h 34m 57s.xml">
-      <configuration name="Example21.before" configurationId="TestNG" />
+    <history-entry file="Example21 - 2019.09.24 at 22h 44m 49s.xml">
+      <configuration name="Example21" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Example21_before - 2019.09.23 at 19h 36m 58s.xml">
-      <configuration name="Example21.before" configurationId="TestNG" />
+    <history-entry file="Answeumeir1_before - 2019.09.24 at 22h 44m 54s.xml">
+      <configuration name="Answeumeir1.before" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22246066" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28397712" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="DB Browser" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.29908973" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.4054054" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.5101266" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.9621212" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32899868" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.039011702" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32899868" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3845209" />
+      <window_info anchor="bottom" id="DB Execution Console" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24964234" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.3297568" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.3297568" />
     </layout>
   </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SimpleProject$RemoveElement.ic" NAME="RemoveElement Coverage Results" MODIFIED="1577519830738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>TheThirdOne.Pages.*</FILTER>
+    </SUITE>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/Com.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Math.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/TheFirstOne/Sum_Of_Digits.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="358" column="25" selection-start-line="358" selection-start-column="25" selection-end-line="358" selection-end-column="25" />
+        <state relative-caret-position="84">
+          <caret line="4" column="13" selection-end-line="65" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/github/bonigarcia/webdrivermanager/3.6.1/webdrivermanager-3.6.1.jar!/io/github/bonigarcia/wdm/WebDriverManager.class">
+    <entry file="file://$PROJECT_DIR$/src/test/java/TheFirstOne/Sum_Of_Divisors.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-357">
-          <caret line="56" column="17" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="17" />
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-end-line="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Example/PrimeNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/TheFirstOne/Sum_Of_Two_Int_Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-          <folding>
-            <element signature="e#89#90#0" expanded="true" />
-            <element signature="e#120#121#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="84">
+          <caret line="4" column="13" selection-end-line="28" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Example/PrimeNumber2.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/TheFirstOne/Sum_Up_to_Num_N.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-end-line="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Example/Polindrom.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/TheFirstOne/Swap_First_and_Last_Letters_Of_A_Word.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="84">
+          <caret line="4" column="13" selection-end-line="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Pages/Sample.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/TheFirstOne/Swap_Two_Variable_Values.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-end-line="33" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Pages/TestNg.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/TheFirstOne/Synchronized_Atomic.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1081#1082#0" expanded="true" />
-            <element signature="e#1110#1111#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="248">
+          <caret line="27" column="13" selection-end-line="57" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/github/bonigarcia/webdrivermanager/3.6.1/webdrivermanager-3.6.1.jar!/io/github/bonigarcia/wdm/HttpClient.class">
+    <entry file="file://$PROJECT_DIR$/src/test/java/TheFirstOne/Triagle_Staircase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-end-line="55" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar!/org/openqa/selenium/WebDriver.class">
+    <entry file="file://$PROJECT_DIR$/src/test/java/TheFirstOne/Unique_Characters.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1911">
-          <caret line="98" column="27" selection-start-line="98" selection-start-column="27" selection-end-line="98" selection-end-column="27" />
+        <state relative-caret-position="84">
+          <caret line="5" column="13" selection-end-line="59" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Example/Polindrome2.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/TheFirstOne/Unique_Numbers_from_the_Array.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="84">
+          <caret line="6" column="13" selection-end-line="81" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Pages/Person.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/TheFirstOne/Until_3_Trials_Or_Sum_is_100.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="84">
+          <caret line="4" column="13" selection-end-line="33" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/function/Predicate.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/TheFirstOne/Until_Sum_is_40.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-207">
-          <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+        <state relative-caret-position="84">
+          <caret line="4" column="13" selection-end-line="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Pages/Vehicle.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/TheFirstOne/Until_You_Get_YES_or_Negative_Number.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="75">
+          <caret line="4" column="13" selection-end-line="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Pages/A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-          <folding>
-            <element signature="e#131#132#0" expanded="true" />
-            <element signature="e#170#171#0" expanded="true" />
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#250#251#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Pages/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Pages/Test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-          <folding>
-            <element signature="e#144#145#0" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Pages/Reverse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="72" selection-start-line="72" selection-end-line="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Pages/arrayLoop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="693">
-          <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Folder/A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
-          <folding>
-            <element signature="e#58#59#0" expanded="true" />
-            <element signature="e#97#98#0" expanded="true" />
-            <element signature="e#145#146#0" expanded="true" />
-            <element signature="e#184#185#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Folder/Asas.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Pages/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="56" column="2" selection-start-line="53" selection-start-column="9" selection-end-line="56" selection-end-column="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Pages/Example2.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/CheckingAccount.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Pages/CheckingAccount.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/Example.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/Example12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/HowMAnyTimesCharAccour.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/IntegerMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/NumberLessToMax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/NumberofPrime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/Polindrom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/PrimeNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/PrimeNumberArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/PrimeNumber2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/RemoveDuplicateElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/StringUniqueElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/test4545.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TheFirstOne/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TheFirstOne/Appears_Twice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/sumOfDigit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2247">
+          <caret line="107" selection-start-line="107" selection-end-line="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/Answeumeir1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/Sample.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/TestNg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="42" column="3" lean-forward="true" selection-start-line="42" selection-start-column="3" selection-end-line="42" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#1213#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TheThirdOne/Technical/Example.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="12" column="15" selection-end-line="306" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TheThirdOne/Technical/Example3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="11" column="15" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/Example21.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="8" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TheThirdOne/Technical/UniqueElementRemove.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TheThirdOne/Technical/uniqueElementCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TheThirdOne/Technical/UniqueElement.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-          <folding>
-            <element signature="e#101#102#0" expanded="true" />
-            <element signature="e#129#130#0" expanded="true" />
-          </folding>
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Pages/Example21.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/ArrayUniqueInteger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="26" column="65" lean-forward="true" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="65" />
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TheThirdOne/Pages/RemoveElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Collections/Collection">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Collections/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Collections/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Collections/LinkList.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Collections/ArralistConsept.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="607">
+          <caret line="78" column="48" selection-start-line="78" selection-start-column="48" selection-end-line="78" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Pages/Answeumeir1.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Collections/LinkListExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-778">
-          <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        <state relative-caret-position="172">
+          <caret line="46" column="26" selection-start-line="46" selection-start-column="26" selection-end-line="46" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/MapExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>SimpleProject</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>
