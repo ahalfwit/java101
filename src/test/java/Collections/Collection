@@ -4,3 +4,31 @@ Naveen Collection
 
 2.1  implement (these are interface)
     List --> Queue ---> Set
+
+
+
+     /*
+
+            HasTable -->  it is part of the Map collections
+            hashMap  -->
+            1. error codes (2.3.2 -->  fatal error)
+            2. zip codes (Map of zip Codes)
+            3. map of manager and employees
+            4. configurations . env variables
+            5. Headers in Rest Api
+
+            what type of methods we have in Map collection ?
+
+            1.put();
+            2.putAll();
+            3. get(key);
+            4.containsKey(key);
+            5.remove(key);
+            6.keySet();
+
+
+             */
+
+
+             // HashMap is a class implements Map interface abstract class
+             //
