@@ -2,7 +2,7 @@ package TheFirstOne;
 
 import java.util.Arrays;
 
-public class Anagram {
+public class gitAnagram {
 
     public static void main(String[] args) {
 
