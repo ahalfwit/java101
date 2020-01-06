@@ -1,0 +1,122 @@
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+index 84aac79..74032ad 100644
+--- a/.idea/workspace.xml
++++ b/.idea/workspace.xml
+@@ -1,9 +1,7 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="771506fd-21bb-4507-adb6-c217cc5380ff" name="Default Changelist" comment="">
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-    </list>
++    <list default="true" id="771506fd-21bb-4507-adb6-c217cc5380ff" name="Default Changelist" comment="" />
+     <ignored path="$PROJECT_DIR$/out/" />
+     <ignored path="$PROJECT_DIR$/target/" />
+     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+@@ -20,7 +18,7 @@
+   </component>
+   <component name="FileEditorManager">
+     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+-      <file pinned="false" current-in-tab="true">
++      <file pinned="false" current-in-tab="false">
+         <entry file="file://$PROJECT_DIR$/src/main/java/FIrstProject.java">
+           <provider selected="true" editor-type-id="text-editor">
+             <state relative-caret-position="252">
+@@ -30,10 +28,28 @@
+         </entry>
+       </file>
+       <file pinned="false" current-in-tab="false">
++        <entry file="file://$PROJECT_DIR$/src/test/java/TheFirstOne/Character_Frequency_In_A_String.java">
++          <provider selected="true" editor-type-id="text-editor">
++            <state relative-caret-position="84">
++              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
++            </state>
++          </provider>
++        </entry>
++      </file>
++      <file pinned="false" current-in-tab="false">
++        <entry file="file://$PROJECT_DIR$/src/test/java/TheFirstOne/Blog_DB.java">
++          <provider selected="true" editor-type-id="text-editor">
++            <state relative-caret-position="-54">
++              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
++            </state>
++          </provider>
++        </entry>
++      </file>
++      <file pinned="false" current-in-tab="true">
+         <entry file="file://$PROJECT_DIR$/src/test/java/TheFirstOne/Appears_Twice.java">
+           <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="42">
+-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
++            <state relative-caret-position="431">
++              <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+             </state>
+           </provider>
+         </entry>
+@@ -182,7 +198,7 @@
+               <item name="src" type="462c0819:PsiDirectoryNode" />
+               <item name="test" type="462c0819:PsiDirectoryNode" />
+               <item name="java" type="462c0819:PsiDirectoryNode" />
+-              <item name="TheFirstOne" type="462c0819:PsiDirectoryNode" />
++              <item name="Collections" type="462c0819:PsiDirectoryNode" />
+             </path>
+           </expand>
+           <select />
+@@ -338,8 +354,9 @@
+   </component>
+   <component name="ToolWindowManager">
+     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
++    <editor active="true" />
+     <layout>
+-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49881798" visible="true" weight="0.30543634" />
++      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49881798" visible="true" weight="0.27539343" />
+       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+       <window_info id="Image Layers" order="2" />
+       <window_info id="Designer" order="3" />
+@@ -354,7 +371,7 @@
+       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+       <window_info anchor="bottom" id="TODO" order="6" />
+-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.48034397" />
++      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.35749385" />
+       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+       <window_info anchor="bottom" id="Version Control" order="9" />
+       <window_info anchor="bottom" id="Messages" order="10" weight="0.3845209" />
+@@ -407,13 +424,6 @@
+     </SUITE>
+   </component>
+   <component name="editorHistoryManager">
+-    <entry file="file://$PROJECT_DIR$/src/test/java/TheFirstOne/Unique_Numbers_from_the_Array.java">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="84">
+-          <caret line="6" column="13" selection-end-line="81" />
+-        </state>
+-      </provider>
+-    </entry>
+     <entry file="file://$PROJECT_DIR$/src/test/java/TheFirstOne/Until_3_Trials_Or_Sum_is_100.java">
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="84">
+@@ -750,10 +760,21 @@
+         </state>
+       </provider>
+     </entry>
++    <entry file="file://$PROJECT_DIR$/src/test/java/Collections/GitExample.java">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="168">
++          <caret line="8" selection-start-line="8" selection-end-line="8" />
++          <folding>
++            <element signature="e#76#77#0" expanded="true" />
++            <element signature="e#95#96#0" expanded="true" />
++          </folding>
++        </state>
++      </provider>
++    </entry>
+     <entry file="file://$PROJECT_DIR$/src/test/java/TheFirstOne/Appears_Twice.java">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="42">
+-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
++        <state relative-caret-position="431">
++          <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+         </state>
+       </provider>
+     </entry>
